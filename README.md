@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zainimran
-- 👀 I’m interested in web development, dev-ops and automation. Check out an npm package I published [here](https://www.npmjs.com/package/markdown-toc-unlazy)
+- 👀 I’m interested in full-stack web development, performance optimizations, dev-ops and automation tooling. Check out an npm package I published [here](https://www.npmjs.com/package/markdown-toc-unlazy)
 - 🌱 I’m currently learning BlitzJS, Prisma and blue-teaming tools
 - 💞️ I’m looking to collaborate on open-source projects in the blue-teaming space
 - 📫 How to reach me: my twitter @zainnimran 
